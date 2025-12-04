@@ -1,8 +1,0 @@
-1. Install Python and VS Code
-2. Open Drive0 (primary drive) and create "ForensicsProject" folder within it
-2. Open VS Code application as Administrator
-3. Open python_carver.py within the application
-4. Open a new Powershell terminal within the application
-5. Run the following command in the Powershell terminal:
-python jpeg_carver.py "\\.\PhysicalDrive0" -o Recovered_JPEGs -n 50 --min-size 20000 --max-size 5000000
-6. Open "ForensicsProject" folder, then open "Recovered_JPEGs" to see the successfully recovered images
